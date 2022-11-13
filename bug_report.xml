@@ -1,0 +1,9 @@
+<info>
+  <Id>1</Id>
+  <Title>Status code 404 in main page</Title>
+  <STR>Go to www.github.com</STR>
+  <Expected_result>Mane page is opened</Expected_result>
+  <Actual_result>Status code 404</Actual_result>
+  <Environment>macBook Monterey v12.6, Chrome v1.23.1837</Environment>
+  <Attachment>bug_1</Attachment>
+</info>
